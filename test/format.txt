@@ -1,0 +1,21 @@
+<numOfRows> <numOfColumns> <N (num of elements)>
+<Element1Char> <bondLimit>
+<Element2Char> <bondLimit>
+...
+<ElementNChar> <bondLimit>
+<Grid config; '#' for wall, ' ' for empty space, '<elChar>' for element>
+<row [0, numOfRows)> <col [0, numOfColumns)>  --- starting position of element controlled
+
+Example:
+8 9 2
+H 1
+O 2
+   ######
+   #    #
+####    #
+#    #H #
+#   O#  #
+# H     #
+#    ####
+######
+5 2

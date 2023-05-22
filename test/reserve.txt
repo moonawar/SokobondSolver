@@ -1,0 +1,12 @@
+<STILL BUGGY : not optimal solution>
+7 7 2
+H 1
+N 3
+#######
+#     #
+#     #
+#H#H#H#
+#     #
+#  N  #
+#######
+5 3

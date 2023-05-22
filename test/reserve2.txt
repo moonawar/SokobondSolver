@@ -1,0 +1,13 @@
+<STILL BUGGY : error on grid deep cloning, might need to change deep cloning strategy>
+7 8 3
+H 1
+O 2
+N 3
+########
+#      #
+#   H  #
+#O H  N#
+#   H  #
+#      #
+########
+3 6
